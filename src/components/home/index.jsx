@@ -28,7 +28,8 @@ const Home = () => {
                 <section>
                     <div className="grid grid-cols-2 relative">
                         <div className="gap-8 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 absolute flex flex-col items-center text-center">
-                            <p className="text-white text-5xl">Feitos com amor</p>
+                            <p className="text-white text-5xl">Feito a mão, com todo o coração</p>
+                            <p className="text-white text-xl w-130">Realize seus pedidos online e receba sua mercadoria na porta da sua casa</p>
                             <p className="text-white text-xl border-2 border-solid border-white px-2 py-2 w-40 cursor-pointer rounded-sm">Ver modelos</p>
                         </div>
 
